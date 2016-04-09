@@ -7,7 +7,7 @@
     machine.config.comments usually located in 
     \Windows\Microsoft.Net\Framework\v2.x\Config 
 -->
-<!-- Changed by panteakh -->
+<!-- Changed by panteakh 123 -->
 <configuration>
   <configSections>
     <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false"/>
